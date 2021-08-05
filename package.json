@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "acorn": "^5.1.1",
-    "gl": "^4.4.0",
+    "gl": "^4.6.0",
     "gl-wiretap": "^0.6.2",
     "gpu-mock.js": "^1.1.0"
   },
